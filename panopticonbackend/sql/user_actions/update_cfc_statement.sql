@@ -1,0 +1,1 @@
+COPY staging.cfc_statement from STDIN BINARY

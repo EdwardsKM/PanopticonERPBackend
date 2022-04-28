@@ -1,0 +1,1 @@
+COPY staging.absa_statement from STDIN BINARY

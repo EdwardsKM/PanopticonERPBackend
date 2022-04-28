@@ -1,0 +1,1 @@
+COPY staging.bill_details from STDIN BINARY

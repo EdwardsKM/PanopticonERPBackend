@@ -1,0 +1,1 @@
+COPY staging.sidian_statement from STDIN BINARY

@@ -1,0 +1,1 @@
+select * from production.mpesa_reconciliations where receipt_date::date = $1

@@ -1,0 +1,1 @@
+COPY staging.lab_visits from STDIN BINARY

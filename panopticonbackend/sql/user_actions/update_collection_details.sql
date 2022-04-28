@@ -1,0 +1,1 @@
+COPY staging.collection_details from STDIN BINARY

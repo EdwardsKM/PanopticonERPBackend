@@ -1,0 +1,4 @@
+COPY staging.mpesa_statement
+FROM STDIN BINARY
+DELIMITER ','
+CSV HEADER;
